@@ -45,9 +45,9 @@
 #pragma mark - Appereance
 
 - (void) initAppereance {
-    rgb(241, 196, 15)
-    UIImage *navigationBarBGImage = [];
-    [UINavigationBar appearance] setBackgroundImage:<#(UIImage *)#> forBarMetrics:<#(UIBarMetrics)#>
+//    rgb(241, 196, 15)
+//    UIImage *navigationBarBGImage = [];
+//    [UINavigationBar appearance] setBackgroundImage:<#(UIImage *)#> forBarMetrics:<#(UIBarMetrics)#>
     
 }
 
